@@ -13,10 +13,10 @@ should work and the render can be viewed with
 ./main
 ```
 ## Dependencies
--[stb_image](https://github.com/nothings/stb)
--[GLFW](https://www.glfw.org/) (for window creation)
--GLM (can be installed with apt install)
--[GLAD](https://github.com/Dav1dde/glad)
+- [stb_image](https://github.com/nothings/stb)
+- [GLFW](https://www.glfw.org/) (for window creation)
+- GLM (can be installed with apt install)
+- [GLAD](https://github.com/Dav1dde/glad)
 
 ## Future Work
 
@@ -24,5 +24,5 @@ To understand PBR better, I am working through the [PBR book](https://pbrt.org/)
 
 ## Sources
 
--https://learnopengl.com/
--https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf (to understand BRDF and PBR better)
+- [learnOpenGL](https://learnopengl.com/)
+- [Physics and Math of Shading](https://blog.selfshadow.com/publications/s2013-shading-course/hoffman/s2013_pbs_physics_math_notes.pdf) (to understand BRDF and PBR better)
