@@ -1,7 +1,7 @@
 ![](gltest.png) Render output, spheres of varying metallic and roughness factors at the Walk of Fame
 ## About
 
-I went through the [learnOpenGL](https://learnopengl.com/) tutorials to learn about writing code in openGL and computer graphics in general. Going from the getting started section to the end of the PBR section and taking the time to understand everything took quite a while, so here is the code for a basic PBR renderer. When running the program, you can move around using WASD constrols and space to move up and shift to move down
+I went through the [learnOpenGL](https://learnopengl.com/) tutorials to learn about writing code in openGL and computer graphics in general. Going from the getting started section to the end of the PBR section and taking the time to understand everything took quite a while, so here is the code for a basic PBR renderer. When running the program, you can move around using WASD constrols and space to move up and shift to move down.
 
 ## Build and Run
 I compiled this on Ubuntu 20.04 using g++ version 8.4.0. I included a simple makefile so simply running
